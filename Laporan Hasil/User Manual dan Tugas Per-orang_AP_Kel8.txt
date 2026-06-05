@@ -1,0 +1,46 @@
+User Manual:
+1.Buka aplikasi KATKA
+2.Klik Play/Quit.
+3.Pada halaman awal, pemain diminta untuk memasukkan nama pengguna (username). 
+4.Setelah memasukkan nama, pemain dapat memilih mode permainan: 
+  •Mode Normal → bermain tanpa batas waktu, tetapi terdapat penghitung waktu untuk mencatat lama permainan. 
+  •Mode Hard → permainan menggunakan batas waktu selama bermain. 
+5.Setelah mode dipilih, sistem akan secara otomatis menentukan satu kata rahasia. 
+6.Pemain mengetik kata tebakan menggunakan keyboard yang tersedia pada layar. 
+7.Tekan tombol Enter/Kirim untuk memeriksa jawaban. 
+8.Setiap huruf pada tebakan akan berubah warna sebagai petunjuk: 
+  •Hijau → huruf dan posisi benar. 
+  •Kuning → huruf benar tetapi posisi salah. 
+  •Abu-abu → huruf tidak ada dalam kata. 
+9.Permainan berakhir ketika pemain berhasil memasukkan kata yang benar atau ketika batas percobaan/pengisian kata telah habis. 
+10. Bagikan Hasil Permainan: Setelah permainan selesai, akan muncul tangkapan layar hasil permainan, Gambar tersebut akan tersimpan dan secara otomatis membuka halaman WhatsApp Web, sehingga kamu dapat langsung mengirimkannya kepada teman atau kenalan kamu..
+
+Tugas Per-Orang:
+1.Willyam Nicholas Siahaan(251401057)
+  •Mengimplementasikan program Main Menu dan sistem navigasi
+  •Membuat fitur Difficulty Selection (Normal dan Hard)
+  •Mengembangkan fitur timer dan layar hasil akhir
+  •Menambahkan soundtrack/background music pada game
+  •Mengatur sistem audio selama gameplay
+  •Melakukan debugging dan testing program
+2.Adrian Ricardo Sipahutar(251401069)
+  •Mengembangkan logika inti permainan tebak kata KATKA
+  •Membuat sistem validasi input pemain
+  •Mengimplementasikan algoritma pengecekan kata dan feedback warna
+  •Membuat sistem pemilihan kata secara acak
+  •Mengatur mekanisme giliran dan jumlah percobaan pemain
+  •Menangani edge case seperti huruf duplikat
+  •Melakukan unit testing logika game
+3.Keke Gemintang Padang(251401009)
+  •Merancang konsep visual keseluruhan game KATKA
+  •Mendesain Main Menu, Win Screen, Lose Screen, dan game board
+  •Membuat aset visual seperti ikon, background, dan ornamen
+  •Menjaga konsistensi desain pada seluruh tampilan game
+  •Menyusun template laporan tugas perorangan
+  •Melakukan revisi desain berdasarkan feedback tim
+4.Irayani Kalilah Harahap(251401135)
+  •Membantu merancang desain Main Menu dan splash screen
+  •Membuat variasi desain dan layout tampilan awal game
+  •Menyusun style guide sederhana untuk konsistensi visual
+  •Menyusun dan melakukan proofreading User Manual
+  •Membantu koordinasi komunikasi antar anggota tim terkait desain
